@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Katherine Leyonmark
-image: https://drive.google.com/file/d/12m2HiiJtOJ56XGHesrY1TjYutlvnn4MW/view
+{% include image.html file="websitepic.jpg" %}
 description: A comprehensive location to learn about me and my work.
